@@ -190,7 +190,7 @@ Como dice el dicho:
 
 > El prudente se anticipa al peligro y toma precauciones.
 > 
-> El simplón avanza a ciegas y sufre las consecuencias.
+> El imprudente avanza a ciegas y sufre las consecuencias.
 
 Hasta el momento, las medidas de Colombia han sido habilitar canales de 
 reporte y diagnóstico para que aquellos que tengan síntomas se hagan el examen,
