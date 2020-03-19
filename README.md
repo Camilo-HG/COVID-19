@@ -185,7 +185,7 @@ que en total en el país existan:
 Es decir que si dicha estadística es correcta, entonces tendríamos 663 casos 
 no diagnosticados, ya que no presentan síntomas pero sí pueden transmitir el
 virus. Estamos en una situación que es un juego de estadística y probabilidades,
-en la cual es mejor estar seguros que estar seguros que con incertidumbre. 
+en la cual es mejor estar seguros que estar con incertidumbre. 
 Como dice el dicho:
 
 > El prudente se anticipa al peligro y toma precauciones.
@@ -194,12 +194,12 @@ Como dice el dicho:
 
 Hasta el momento, las medidas de Colombia han sido habilitar canales de 
 reporte y diagnóstico para que aquellos que tengan síntomas se hagan el examen,
-sin embargo, esto se traduce en estar esperando que la persona correcta 
-(el contagiado asintomático) llame y se haga el examen antes de seguir 
-transmitiendo el virus sin saberlo. Pero hasta no tomar medidas como las 
-tomadas por Corea del Sur de **diagnóstico masivo**, los casos no 
-diagnosticados seguirán propagando el virus. Es necesario que 
-se establezcan medidas más drásticas de diagnóstico y control para quienes llegan al país
+sin embargo, esto se traduce en el contagiado asintomático nunca llame, por no
+presentar síntomas, y en su lugar  siga transmitiendo el virus sin saberlo. 
+Debemos entender que, hasta no tomar medidas como las tomadas por Corea del Sur 
+de **diagnóstico masivo**, los casos no diagnosticados seguirán propagando el 
+virus. Es necesario que se establezcan medidas más drásticas de diagnóstico y 
+control para quienes llegan al país
 y para quienes se transportan a través de él, de tal manera que por su
 bienestar y el de todos, podamos controlar el brote de **COVID-19** en nuestro 
 país. De hecho, el Gobierno Nacional ha llamado al orden respecto a las medidas
