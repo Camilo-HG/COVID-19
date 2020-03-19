@@ -180,9 +180,7 @@ Además de lo anterior, al hacer un ejercicio simple de porcentajes, si
 solamente el 14% de la población presenta síntomas, podemos entonces esperar 
 que en total en el país existan:
 
-$$
-\frac{108 \text{ casos }}{14 \%} = 771 \text{ casos totales}
-$$
+> 108 casos / 14%  = 771 casos totales
 
 Es decir que si dicha estadística es correcta, entonces tendríamos 663 casos 
 no diagnosticados, ya que no presentan síntomas pero sí pueden transmitir el
