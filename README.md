@@ -3,6 +3,7 @@
 ## Tabla de contenido <!-- omit in toc -->
 - [Información del repositorio](#información-del-repositorio)
 - [¿Por qué debemos quedarnos en casa?](#por-qué-debemos-quedarnos-en-casa)
+- [Simulaciones](#simulaciones)
 - [Investigadores que colaboran en el repositorio](#investigadores-que-colaboran-en-el-repositorio)
 - [Referencias](#referencias)
   - [Documento principal](#documento-principal)
@@ -63,6 +64,13 @@ en la cual es mejor estar seguros que estar con incertidumbre:
 > El prudente se anticipa al peligro y toma precauciones.
 > 
 > El imprudente avanza a ciegas y sufre las consecuencias.
+
+También invitamos a leer el documento (más técnico): [Coronavirus: Colombia, a tres semanas de Italia. Todavía hay tiempo de actuar!! - 18/Marzo/2020](Documentos/ISPM_Coronavirus_en_Colombia.pdf)
+
+
+# Simulaciones
+
+- [Modelo epidemiológico de propagación del COVID-19](Simulaciones/Propagacion_COVID-19_python.ipynb)
 
 
 # Investigadores que colaboran en el repositorio
