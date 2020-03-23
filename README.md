@@ -70,7 +70,7 @@ También invitamos a leer el documento (más técnico): [Coronavirus: Colombia, 
 
 # Simulaciones
 
-- [Modelo epidemiológico de propagación del COVID-19](Simulaciones/Propagación_COVID-19_Colombia.ipynb)
+- [Modelo epidemiológico de propagación del COVID-19](Simulaciones/Propagaci%C3%B3n_COVID-19_Colombia.ipynb)
 
 
 # Investigadores que colaboran en el repositorio
