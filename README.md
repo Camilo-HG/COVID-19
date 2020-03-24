@@ -6,7 +6,7 @@
 - [Simulaciones](#simulaciones)
 - [Investigadores que colaboran en el repositorio](#investigadores-que-colaboran-en-el-repositorio)
 - [Referencias](#referencias)
-  - [Documento principal](#documento-principal)
+  - [Documentos principales](#documentos-principales)
   - [Links a noticias](#links-a-noticias)
     - [Modelación basada en agentes para entender el contagio](#modelación-basada-en-agentes-para-entender-el-contagio)
     - [El peligro de los casos asintomáticos y noticias al respecto](#el-peligro-de-los-casos-asintomáticos-y-noticias-al-respecto)
@@ -42,6 +42,9 @@ repositorio.
 
 Invitamos a leer el documento: [¿Por qué debemos quedarnos en casa?](Por_que_debemos_quedarnos_en_casa.pdf)
 
+- English version: [¿Why do we need to stay home?](Why_do_we_need_to_stay_home.pdf)
+
+
 Al final del mismo hacemos la siguiente reflexión:
 
 > "A través de este documento queremos invitar a cada uno de los colombianos a 
@@ -57,13 +60,21 @@ Al final del mismo hacemos la siguiente reflexión:
 > cuando estos se suman, de la misma manera que lo hicieron los ciudadanos 
 > de Corea del Sur".
 
-Estamos en una situación que es un juego de estadística y probabilidades,
-en la cual es mejor estar seguros que estar con incertidumbre: 
+Estamos en una situación en la cual controlar la estadística y las 
+probabilidades es demasiado importante, pues es mejor estar seguros
+que tener incertidumbre. Invitamos a que sea cual sea la situación en su propio
+país, se tomen precauciones inmediatas: 
 
 
 > El prudente se anticipa al peligro y toma precauciones.
 > 
 > El imprudente avanza a ciegas y sufre las consecuencias.
+
+
+El siguiente documento es el pronóstico hecho para Ecuador:
+
+- [Propagacion virus COVID-19 en Ecuador - Fecha: 23/Marzo/2020](Propagacion_Virus_Ecuador_23-Marzo-2020.pdf)
+
 
 También invitamos a leer el documento (más técnico): [Coronavirus: Colombia, a tres semanas de Italia. Todavía hay tiempo de actuar!! - 18/Marzo/2020](Documentos/ISPM_Coronavirus_en_Colombia.pdf)
 
@@ -112,10 +123,11 @@ proveído de artículos, datos, códigos y análisis adicionales, y reflexiones.
 
 # Referencias
 
-## Documento principal
+## Documentos principales
 
 - [¿Por qué debemos quedarnos en casa?](Por_que_debemos_quedarnos_en_casa.pdf)
-
+- [¿Why do we need to stay home?](Why_do_we_need_to_stay_home.pdf)
+- [Propagacion virus COVID-19 en Ecuador - Fecha: 23/Marzo/2020](Propagacion_Virus_Ecuador_23-Marzo-2020.pdf)
 
 ## Links a noticias
 
