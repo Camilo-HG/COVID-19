@@ -73,7 +73,7 @@ país, se tomen precauciones inmediatas:
 
 El siguiente documento es el pronóstico hecho para Ecuador:
 
-- [Propagacion virus COVID-19 en Ecuador - Fecha: 23/Marzo/2020](Propagacion_Virus_Ecuador_23-Marzo-2020.pdf)
+- [Propagación virus COVID-19 en Ecuador - Fecha: 23/Marzo/2020](Propagacion_Virus_Ecuador_23-Marzo-2020.pdf)
 
 
 También invitamos a leer el documento (más técnico): [Coronavirus: Colombia, a tres semanas de Italia. Todavía hay tiempo de actuar!! - 18/Marzo/2020](Documentos/ISPM_Coronavirus_en_Colombia.pdf)
