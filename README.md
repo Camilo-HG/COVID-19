@@ -86,7 +86,9 @@ También invitamos a leer el documento (más técnico): [Coronavirus: Colombia, 
 
 # Investigadores que colaboran en el repositorio
 
-A continuación listamos los investigadores que han estado trabajando en estos
+Esta iniciativa se originó en el **Grupo de Fundamentos y Enseñanza de la Física y los Sistemas Dinámicos**, específicamente por parte de los investigadores de la 
+línea de estudio de **Sistemas Complejos** y **Modelación de Sistemas**. A continuación 
+listamos los investigadores que han estado trabajando en estos
 códigos:
 
 - Boris Anghelo Rodriguez Rey
