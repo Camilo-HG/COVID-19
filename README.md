@@ -71,10 +71,10 @@ país, se tomen precauciones inmediatas:
 > El imprudente avanza a ciegas y sufre las consecuencias.
 
 
-El siguiente documento es el pronóstico hecho para Ecuador:
+También hemos realizado el pronósticos para los siguientes países:
 
 - [Propagación virus COVID-19 en Ecuador - Fecha: 23/Marzo/2020](Propagacion_Virus_Ecuador_23-Marzo-2020.pdf)
-
+- [Propagación virus COVID-19 en Costa Rica - Fecha: 31/Marzo/2020](Propagacion_Virus_CostaRica_31-Marzo-2020.pdf)
 
 También invitamos a leer el documento (más técnico): [Coronavirus: Colombia, a tres semanas de Italia. Todavía hay tiempo de actuar!! - 18/Marzo/2020](Documentos/ISPM_Coronavirus_en_Colombia.pdf)
 
@@ -130,6 +130,7 @@ proveído de artículos, datos, códigos y análisis adicionales, y reflexiones.
 - [¿Por qué debemos quedarnos en casa?](Por_que_debemos_quedarnos_en_casa.pdf)
 - [¿Why do we need to stay home?](Why_do_we_need_to_stay_home.pdf)
 - [Propagación virus COVID-19 en Ecuador - Fecha: 23/Marzo/2020](Propagacion_Virus_Ecuador_23-Marzo-2020.pdf)
+- [Propagación virus COVID-19 en Costa Rica - Fecha: 31/Marzo/2020](Propagacion_Virus_CostaRica_31-Marzo-2020.pdf)
 
 ## Links a noticias
 
