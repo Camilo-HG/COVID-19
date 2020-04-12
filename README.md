@@ -82,6 +82,7 @@ También invitamos a leer el documento (más técnico): [Coronavirus: Colombia, 
 # Simulaciones
 
 - [Modelo epidemiológico de propagación del COVID-19](Simulaciones/Propagaci%C3%B3n_COVID-19_Colombia.ipynb)
+- [Modelo Basado en Agentes (ABM) para la propagación del COVID-19](Simulaciones/ABM_COV-19_v0.5_DM.ipynb)
 
 
 # Investigadores que colaboran en el repositorio
